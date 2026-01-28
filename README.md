@@ -19,13 +19,13 @@ A lightweight and easy-to-use tool to monitor the performance of your @react-thr
 
 ```bash
 # npm
-npm install r3f-perf
+npm install r3f-performance
 
 # yarn
-yarn add r3f-perf
+yarn add r3f-performance
 
 # pnpm
-pnpm add r3f-perf
+pnpm add r3f-performance
 ```
 
 ## Options
