@@ -1,13 +1,13 @@
 {
-    "name": "r3f-performance",
+    "name": "r3f-monitor",
     "version": "0.1.8",
     "license": "MIT",
     "description": "A performance monitor for React Three Fiber. Track FPS, draw calls, memory, and GPU usage.",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/anhldh/r3f-performance.git"
+        "url": "git+https://github.com/anhldh/r3f-monitor.git"
     },
-    "homepage": "https://github.com/anhldh/r3f-performance",
+    "homepage": "https://github.com/anhldh/r3f-monitor",
     "keywords": [
         "react-three-fiber",
         "r3f",

@@ -1,8 +1,8 @@
 ![npm](https://img.shields.io/npm/v/r3f-performance)
 
-# R3F-Performance
+# R3F-Monitor
 
-**[Changelog](https://github.com/anhldh/r3f-performace/blob/main/CHANGELOG.md)**
+**[Changelog](https://github.com/anhldh/r3f-monitor/blob/main/CHANGELOG.md)**
 
 A easily tool to monitor the performance of your  
 [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) application.
@@ -32,13 +32,13 @@ A easily tool to monitor the performance of your
 
 ```bash
 # npm
-npm install r3f-performance
+npm install r3f-monitor
 
 # yarn
-yarn add r3f-performance
+yarn add r3f-monitor
 
 # pnpm
-pnpm add r3f-performance
+pnpm add r3f-monitor
 ```
 
 ## Options
@@ -79,7 +79,7 @@ position?: Sets the position of the panel. Options: 'top-right', 'top-left', 'bo
 
 ```jsx
 import { Canvas } from "@react-three/fiber";
-import { PerfMonitor } from "r3f-performance";
+import { PerfMonitor } from "r3f-monitor";
 
 function App() {
   return (
@@ -92,7 +92,7 @@ function App() {
 
 ### Maintainers :
 
-- [`@anhldh`](https://github.com/anhldh/r3f-performance)
+- [`@anhldh`](https://github.com/anhldh/r3f-monitor)
 
 ### Thanks
 
