@@ -7,10 +7,7 @@
         "type": "git",
         "url": "git+https://github.com/anhldh/r3f-performance.git"
     },
-    "homepage": "https://github.com/anhldh/r3f-performance#readme",
-    "bugs": {
-        "url": "https://github.com/anhldh/r3f-performance/issues"
-    },
+    "homepage": "https://github.com/anhldh/r3f-performance",
     "keywords": [
         "react-three-fiber",
         "r3f",
