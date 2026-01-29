@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/r3f-performance)
+
 # R3F-Performance
 
 **[Changelog](https://github.com/anhldh/r3f-performace/blob/main/CHANGELOG.md)**
