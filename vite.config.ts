@@ -2,6 +2,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import dts from "vite-plugin-dts";
 import path from "node:path";
+import { visualizer } from "rollup-plugin-visualizer";
 // 1. Import plugin
 import cssInjectedByJsPlugin from "vite-plugin-css-injected-by-js";
 
@@ -13,7 +14,7 @@ export default defineConfig({
       include: ["src"],
       exclude: ["**/*.test.*", "**/*.spec.*", "**/*.stories.*"],
     }),
-    // 2. Thêm plugin vào đây
+    visualizer({ filename: "stats.html", gzipSize: true, brotliSize: true }),
     cssInjectedByJsPlugin(),
   ],
   build: {
